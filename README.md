@@ -14,7 +14,7 @@ This project is hosted on **GitHub Pages**. Feel free to [:point_right: try it o
 
 ## Limitations
 
--
+- None, as all the requirements of this project were met.
 
 ## Resources
 
@@ -26,4 +26,6 @@ Built with :heart: to **The Odin Project**, a wonderful Web Development curricul
 
 ## Acknowledgements
 
--
+- [Font Awesome](https://fontawesome.com/)
+- [Browse Fonts - Google Fonts](https://fonts.google.com/)
+- [GitHub - sindresorhus/modern-normalize: 🐒 Normalize browsers' default style](https://github.com/sindresorhus/modern-normalize)
