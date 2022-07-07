@@ -14,7 +14,7 @@ This project is hosted on **GitHub Pages**. Feel free to [:point_right: try it o
 
 ## Limitations
 
--
+- None, as all the requirements of this project were met.
 
 ## Resources
 
